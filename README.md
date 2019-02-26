@@ -6,3 +6,5 @@ Jinxin Bai and Zhijie Ban. Collaborative Multi-Auxiliary Information Variational
 This code is modified on the code of CVAE (Collaborative Variational Autoencoder).
 
 In this code, three kinds of auxiliary information are used: content, links, tags .
+
+run the run_.py.
